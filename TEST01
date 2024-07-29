@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>曾泓霖-HTML</title>
+</head>
+
+<body>
+
+    <h1>五 言 絕 句</h1>
+    <h2> <font color="red">贈 孟 浩 然-李白 </font> </h2>
+<pre>
+  吾 愛 孟 夫 子 ，	　風 流 天 下 聞 。
+  紅 顏 棄 軒 冕 ，	　白 首 臥 松 雲 。
+  醉 月 頻 中 聖 ，	　迷 花 不 事 君 。
+  高 山 安 可 仰 ，	　徒 此 挹 清 芬 。
+</pre>
+    <h2> <font color="red">竹 里 館 - 王 維</font> </h2>
+<pre>
+  獨 坐 幽 篁 裡 ，	　彈 琴 復 長 嘯 。
+  深 林 人 不 知 ，	　明 月 來 相 照 。
+</pre>
+    <h1>七 言 絕 句</h1>
+    <h2><font color="red"> 下 江 陵 - 李白 </font></h2>
+<pre>
+  朝 辭 白 帝 彩 雲 間 ，	　千 里 江 陵 一 日 還 。
+  兩 岸 猿 聲 啼 不 住 ，	　輕 舟 已 過 萬 重 山 。
+</pre>
+    <h2><font color="red">  夜 雨 寄 北 - 李 商 隱</font> </h2>
+<pre> 
+  君 問 歸 期 未 有 期 ，	　巴 山 夜 雨 漲 秋 池 。
+  何 當 共 翦 西 窗 燭 ，	　卻 話 巴 山 夜 雨 時 。
+</pre>
+<hr />
+    <h2>製作人:<span>曾泓霖</span>，我的照片:<img src="~/images/456.jpg"  width="80"/>，最常逛的網站:<a href="https://www.youtube.com/" target="_blank"> <i>youtube</i></a></h2>
+    <h2><i>LINE ID :skysky1105 </i> </h2>
+    <p><i>手機: <b> 0909059193</b> </i></p>
+</body>
+</html>
