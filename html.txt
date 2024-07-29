@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+網頁標題
+</head>
+
+<body>
+
+<h1>五 言 絕 句</h1>
+<h2 > <font>贈 孟 浩 然-李白 </font> </h2>
+<pre>
+  吾 愛 孟 夫 子 ，	　風 流 天 下 聞 。
+  紅 顏 棄 軒 冕 ，	　白 首 臥 松 雲 。
+  醉 月 頻 中 聖 ，	　迷 花 不 事 君 。
+  高 山 安 可 仰 ，	　徒 此 挹 清 芬 。
+</Pre>
+<h2> <font>竹 里 館 - 王 維</font> </h2>
+<pre>
+  獨 坐 幽 篁 裡 ，	　彈 琴 復 長 嘯 。
+  深 林 人 不 知 ，	　明 月 來 相 照 。
+</Pre>
+<h1>七 言 絕 句</h1>
+<h2><font> 下 江 陵 - 李白 </font></h2>
+<pre>
+  朝 辭 白 帝 彩 雲 間 ，	　千 里 江 陵 一 日 還 。
+  兩 岸 猿 聲 啼 不 住 ，	　輕 舟 已 過 萬 重 山 。
+</Pre>
+<h2><font>  夜 雨 寄 北 - 李 商 隱</font> </h2>
+<pre> 
+  君 問 歸 期 未 有 期 ，	　巴 山 夜 雨 漲 秋 池 。
+  何 當 共 翦 西 窗 燭 ，	　卻 話 巴 山 夜 雨 時 。
+</Pre>
+
+<h2>製作人:<span>楊順評</span>，我的照片:AAAAA，最常逛的網站: BBBBB <i>CCCCC</i>DDDDD</h2>
+<h2><i>LINE ID : ocuysp99</i> </h2>
+<p><i>手機: 0928550072 </i></p>
+</body>
+</html>
+
+
+*********************************CSS 作業 *************************************************
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>109XXXXXCSS</title>
+<!-- CSS　-->
+<!-- # : ID 選擇器 
+     . : 類別選擇器
+ -->	
+ <!-- 新增一個 s109xxxxxh2 的類別名稱， 顏色:黃色， 微軟正黑體， 有陰影效果(  text-shadow: 2px 2px red;   ) -->
+<style type="text/css">
+    h1 { text-decoration:underline; text-align:center}
+	i {color:purple}
+	p i {color:lime;font-size:30px}
+	
+	#author {color:green; }
+</style>
+
+<!-- 引用 s109xxxxxcss.css  外部 CSS　 檔 -->
+
+</head>
+<!-- inline CSS　: 設定 淺灰的背景色  background-color : LightGray;       -->
+<body >
+
+<h1>五 言 絕 句</h1>
+<h2 style="color:#FF80CC; font-family:標楷體">  贈 孟 浩 然-李白 </h2>
+<pre>
+  吾 愛 孟 夫 子 ，	　風 流 天 下 聞 。
+  紅 顏 棄 軒 冕 ，	　白 首 臥 松 雲 。
+  醉 月 頻 中 聖 ，	　迷 花 不 事 君 。
+  高 山 安 可 仰 ，	　徒 此 挹 清 芬 。
+</Pre>
+<!-- 套用 s109xxxxxh2  類別 -->
+<h2 > 竹 里 館 - 王 維 </h2>
+<pre>
+  獨 坐 幽 篁 裡 ，	　彈 琴 復 長 嘯 。
+  深 林 人 不 知 ，	　明 月 來 相 照 。
+</Pre>
+<h1>七 言 絕 句</h1>
+<!-- 套用 s109xxxxxh2  類別 -->
+<h2 > 下 江 陵 - 李白 </h2>
+<pre>
+  朝 辭 白 帝 彩 雲 間 ，	　千 里 江 陵 一 日 還 。
+  兩 岸 猿 聲 啼 不 住 ，	　輕 舟 已 過 萬 重 山 。
+</Pre>
+<!-- 套用 s109xxxxxh2  類別 -->
+<h2>  夜 雨 寄 北 - 李 商 隱 </h2>
+<pre> 
+  君 問 歸 期 未 有 期 ，	　巴 山 夜 雨 漲 秋 池 。
+  何 當 共 翦 西 窗 燭 ，	　卻 話 巴 山 夜 雨 時 。
+</Pre>
+
+<h2 >製作人:<span id=author>楊順評</span>，  任教於: <a href=https://wwww.ocu.edu.tw ><i>僑光科大</i></a></h2>
+<h3><i>LINE ID : ocuysp99</i> </h3>
+<p><i>手機: 0928550072 </i></p>
+</body>
+</html>
+
+********************************* s109xxxxxcss.css *************************************************
+新增一個  s109xxxxxauthor  的ID 選擇器
+藍色字， 微軟正黑體
+
+
+
+ 
+
+修改表頭表尾
+<!-- 表頭開始  -->
+<header>
+   <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+     <div class="container">
+         <a class="navbar-brand" asp-controller="Home" asp-action="Index"> 楊順評ASPNET </a>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" 
+data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                          aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+           </button>
+           <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                <ul class="navbar-nav flex-grow-1">
+                   <!--下拉清單開始  -->
+                   <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#"  
+                                     id="navbardrop" data-toggle="dropdown">作業表列</a>
+                         <div class="dropdown-menu">
+        <a class="dropdown-item" asp-controller="Home" asp-action="BootStrap"> BootStrap練習 </a>
+        <a class="dropdown-item" asp-controller="Home" asp-action="Razor"> Razor </a>
+                         </div>
+                    </li>
+                     <!--下拉清單結束  -->
+                    <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">回首頁</a>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+</header>
+<!-- 表頭結束  -->
+    <div class="container mt-3">
+        <main role="main" class="pb-3">
+         <!--  一般網頁要放的地方   -->
+            @RenderBody()
+         <!--  一般網頁要放的地方   -->
+        </main>
+    </div>
+<!-- 表尾開始  -->
+<footer class="border-top text-muted ">
+        <div class="container mt-3">
+            &copy; @DateTime.Now.Year - 網站標題 <a href="#"> Yang Shun Ping</a>
+        </div>
+</footer>
+<!-- 表尾結束  -->
+
+
